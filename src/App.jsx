@@ -22,10 +22,10 @@ export default function App(){
               <p className="interests-p">My interests extend beyond code. I enjoy exploring new JavaScript frameworks, optimizing web performance, and advocating for clean code. When I am not coding, you will find me reading tech blogs and brainstorming new project ideas. Join me in the exciting world of front-end development!</p>
               <footer className="footer">
                   <ul>
-                    <li><i className="fa-brands fa-linkedin"></i></li>
-                    <li><i className="fa-solid fa-envelope"></i></li>
-                    <li><i className="fa-brands fa-instagram"></i></li>
-                    <li><i className="fa-brands fa-github"></i></li>
+                    <li><a href="#"><i className="fa-brands fa-linkedin"></i></a></li>
+                    <li><a href="#"><i className="fa-solid fa-envelope"></i></a></li>
+                    <li><a href="#"><i className="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#"><i className="fa-brands fa-github"></i></a></li>
                   </ul>
               </footer>
         </div>
